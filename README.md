@@ -1,7 +1,8 @@
 # wordpress-websites
 
 ## CONTENTS
- 
+
+```
  |
  |-wordpress-blog----------
                           |-----wordpress-blog-website.wmv
@@ -13,6 +14,7 @@
  |-wordpress-portfolio-----
                           |-wordpress-portfolio.wmv
                           |-wordpress-portfolio-export.wpress
+```
 
 ### migration plugin used is ```all in one wp migration```
 
