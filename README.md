@@ -56,6 +56,43 @@ In this wordpress website I have created a technical blogging website as named *
 
 ## Note: Elementor won't work everywhere on this site
 
+# About Wordpress Landing Page
+
+## Description 
+In this wordpress website I have created a landing page for imaginary coding bootcamp company coding mountain. In this Landing page I have show off company's alumni network and success rate to stand out among the competetion and furthur have marketed its bootcamp plans amid loackdown. I have added a nice bump up jumbotron on front to hook anyone on the site and then I placed different carousals , cards and banners about alumni network to show the company results and added a call to action button so that when they are attracted they can directly take a action.I have also added additional about page, services page and contact page and a cool Take action button that tooks all the attention. And if they are impressed with that mind blowing website then they will contact you with contact form which mails the details of form to your personal mail. When it comes to responsiveness then the small screen users are going to fall in love with that landing page. Responsiveness allows the company owner to get more reach because it mostly targets students section or a busy guy who search for cources in hisspare time.                                        
+
+## Demo on You Tube [Live on Youtube!!!](https://youtu.be/k91EinQ-fjE) [Live on Youtube Mobile View!!!](https://youtu.be/5VDqBFbdEbQ) 
+
+## How to use this project as template 
+
+1. Go Ahead and clone this repository
+    * make sure you have git installed 
+    * go to any folder and open terminal 
+    * run the command ```git clone https://github.com/amanjain4103/wordpress-websites.git```
+    * now you must have a wordpress-websites folder 
+    * go inside it ```cd wordpress-websites``` and you have three directories again do ```cd wordpress-portfolio``` and now minimize the window for later use.
+1. Get a hosting
+    * take your cloud provider hosting because the exported size is big.(I use AWS)
+    * create a linux virtual machine and setup the wordpress
+1. access your linux virtual machine(vm) on cloud
+    * now access your vm terminal and get root access
+    * make configuration on vm to increase import size (>16mb)
+    * if you don't know how to do either search on internet, or you can also contact me otherwise you have to make the whole site from scratch.
+    * Now chill we are almost done
+1. admin panel
+    * now go to browser and access wp-admin page and hence login
+    * you should be directed to wp dashboard
+1. install plugin 
+    * Now go to plugins section 
+    * click ```add new```
+    * search for *all in one wp migration*, install and activate it.
+    * now on the left sidebar of your dashboard there should be a new tab named *all in one wp migration*, go ahead and click on it.
+    * Since I have exported the wordpress site as a file so you should click on import and **as a file** 
+    * Now remember we cloned this repository earlier observe there we have a exported file named **wordpress-portfolio-export.wpress**
+    * So import this file in your wordpress
+### And Bammmmmm........ your site must be live !!!
+
+
 # About Wordpress Portfolio Site
 
 ## Description 
@@ -92,4 +129,4 @@ In this wordpress website I have created a technical portfolio website of none o
     * So import this file in your wordpress
 ### And Bammmmmm........ your site must be live !!!
 
-## Note: Elementor won't work everywhere on this site
+# Need a Cool Website!!! Have Me on your Side 🤝🤝
