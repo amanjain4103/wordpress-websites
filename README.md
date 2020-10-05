@@ -52,16 +52,18 @@ In this wordpress website I have created a technical blogging website as named *
     * Since I have exported the wordpress site as a file so you should click on import and **as a file** 
     * Now remember we cloned this repository earlier observe there we have a exported file named **wordpress-blog-site-export.wpress**
     * So import this file in your wordpress
-### And Bammmmmm........ your site must be live !!!
+#### And Bammmmmm........ your site must be live !!! 🚀🚀
 
-## Note: Elementor won't work everywhere on this site
+**Note: Elementor won't work everywhere on this site**
 
 # About Wordpress Landing Page
 
 ## Description 
 In this wordpress website I have created a landing page for imaginary coding bootcamp company coding mountain. In this Landing page I have show off company's alumni network and success rate to stand out among the competetion and furthur have marketed its bootcamp plans amid loackdown. I have added a nice bump up jumbotron on front to hook anyone on the site and then I placed different carousals , cards and banners about alumni network to show the company results and added a call to action button so that when they are attracted they can directly take a action.I have also added additional about page, services page and contact page and a cool Take action button that tooks all the attention. And if they are impressed with that mind blowing website then they will contact you with contact form which mails the details of form to your personal mail. When it comes to responsiveness then the small screen users are going to fall in love with that landing page. Responsiveness allows the company owner to get more reach because it mostly targets students section or a busy guy who search for cources in hisspare time.                                        
 
-## Demo on You Tube [Live on Youtube!!!](https://youtu.be/k91EinQ-fjE) [Live on Youtube Mobile View!!!](https://youtu.be/5VDqBFbdEbQ) 
+## Demo on You Tube 
+* [Live on Youtube!!!](https://youtu.be/k91EinQ-fjE) 
+* [Live on Youtube Mobile View!!!](https://youtu.be/5VDqBFbdEbQ) 
 
 ## How to use this project as template 
 
@@ -90,7 +92,7 @@ In this wordpress website I have created a landing page for imaginary coding boo
     * Since I have exported the wordpress site as a file so you should click on import and **as a file** 
     * Now remember we cloned this repository earlier observe there we have a exported file named **wordpress-portfolio-export.wpress**
     * So import this file in your wordpress
-### And Bammmmmm........ your site must be live !!!
+#### And Bammmmmm........ your site must be live !!! 🚀🚀
 
 
 # About Wordpress Portfolio Site
